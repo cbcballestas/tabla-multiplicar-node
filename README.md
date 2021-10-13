@@ -1,4 +1,4 @@
-# Nota 📓 
+# Notas 📓 
 Programa que genera tabla de multiplicar y genera un archivo de texto con la tabla respectiva,agregando parámetros vía terminal.
 
 ```
