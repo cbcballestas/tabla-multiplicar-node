@@ -5,6 +5,7 @@ require('colors');
 
 console.clear();
 
+// Método que se encarga que generar la tabla de multiplicar y envíar mensaje por consola
 crearArchivo(argv)
   .then((nombreArchivo) => console.log(nombreArchivo.rainbow, 'creado'))
   .catch((err) => console.log(err));
